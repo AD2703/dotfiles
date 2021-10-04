@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexdoria.7@gmail.com
+	name = Alejandro Doria
